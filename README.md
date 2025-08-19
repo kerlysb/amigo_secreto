@@ -12,12 +12,14 @@ Escribe el nombre de un amigo en el campo de texto.
 Haz clic en "Añadir" para agregar el nombre a la lista.
 Consulta la lista visible debajo para verificar los nombres agregados.
 Haz clic en "Sortear amigo" para seleccionar aleatoriamente un nombre de la lista.
+
 **Archivos principales**
 
 index.html: Contiene la estructura HTML de la página.
 style.css: Estilos visuales del proyecto.
 app.js: Lógica JavaScript para agregar amigos y hacer el sorteo.
-Instalación y ejecución
+
+**Instalación y ejecución**
 Clona este repositorio:
 Abre el archivo index.html en tu navegador favorito.
 (No necesita servidor o instalación adicional).

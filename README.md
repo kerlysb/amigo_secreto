@@ -20,7 +20,9 @@ style.css: Estilos visuales del proyecto.
 app.js: Lógica JavaScript para agregar amigos y hacer el sorteo.
 
 **Instalación y ejecución**
+
 Clona este repositorio:
+
 Abre el archivo index.html en tu navegador favorito.
 (No necesita servidor o instalación adicional).
 

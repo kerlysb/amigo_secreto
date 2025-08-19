@@ -16,7 +16,9 @@ Haz clic en "Sortear amigo" para seleccionar aleatoriamente un nombre de la list
 **Archivos principales**
 
 index.html: Contiene la estructura HTML de la página.
+
 style.css: Estilos visuales del proyecto.
+
 app.js: Lógica JavaScript para agregar amigos y hacer el sorteo.
 
 **Instalación y ejecución**
@@ -27,6 +29,7 @@ Abre el archivo index.html en tu navegador favorito.
 (No necesita servidor o instalación adicional).
 
 **Tecnologías utilizadas**
+
 HTML
 CSS
 JavaScript
